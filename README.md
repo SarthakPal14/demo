@@ -1,2 +1,3 @@
 # demo
-my first git repository
+This is my first repository
+Author -: Sarthak Pal
